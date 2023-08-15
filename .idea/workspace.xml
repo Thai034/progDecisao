@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af561efd-19a2-4ad1-9e1e-4bec35e50480" name="Changes" comment="resolvi questoes ate o numero 7">
+    <list default="true" id="af561efd-19a2-4ad1-9e1e-4bec35e50480" name="Changes" comment="Falta resolver as questões 10 e a 13">
+      <change afterPath="$PROJECT_DIR$/operadores_ternarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operadores_ternarios2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista041/questao08.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista041/questao08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista041/questao09.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista041/questao09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista041/questao11.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista041/questao11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista041/questao10.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista041/questao10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista041/questao13.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista041/questao13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +40,14 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Thaila Alves\progDecisao" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Thaila Alves\progDecisao\lista041" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.questao09">
+  <component name="RunManager" selected="Python.questao13">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operadores_ternarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista041" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista041/questao06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operadores_ternarios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operadores_ternarios2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +98,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista041" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista041/questao08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operadores_ternarios2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="questao10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista041/questao11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista041/questao10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="questao13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista041/questao12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista041/questao13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.questao13" />
+        <item itemvalue="Python.questao10" />
+        <item itemvalue="Python.operadores_ternarios2" />
+        <item itemvalue="Python.operadores_ternarios" />
         <item itemvalue="Python.questao09" />
-        <item itemvalue="Python.questao11" />
-        <item itemvalue="Python.questao08" />
-        <item itemvalue="Python.questao12" />
-        <item itemvalue="Python.questao06" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692104238226</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Falta resolver as questões 10 e a 13">
+      <created>1692108075606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692108075606</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,7 +239,8 @@
     <MESSAGE value="apresedemos sobre if, else e elif" />
     <MESSAGE value="resolvi questoes ate o numero 5" />
     <MESSAGE value="resolvi questoes ate o numero 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolvi questoes ate o numero 7" />
+    <MESSAGE value="Falta resolver as questões 10 e a 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Falta resolver as questões 10 e a 13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
