@@ -7,3 +7,18 @@ Abaixo de 3,0 Reprovado
 Entre 3,0 e 6,9 Prova Final
 A partir de 7,0 Aprovado
 '''
+
+nome = input("Me informe seu nome: ")
+nota1 = float(input("Me informe sua primeira nota: "))
+nota2 = float(input("Me informe sua segunda nota: "))
+
+media = (nota1 + nota2)/2
+
+if (media < 3.0):
+    print("Você está reprovado")
+
+if (media >= 3.0 and media <= 6.9):
+    print("Você depende da Prova final!")
+
+if (media >= 7.0):
+    print(f"Parabéns {nome} você está aprovado!")

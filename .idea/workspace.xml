@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af561efd-19a2-4ad1-9e1e-4bec35e50480" name="Changes" comment="yodos os exercicios resolvidos">
-      <change afterPath="$PROJECT_DIR$/lista042/questao01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista042/questao10.py" afterDir="false" />
+    <list default="true" id="af561efd-19a2-4ad1-9e1e-4bec35e50480" name="Changes" comment="exercicios feitos até o número 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista042/questao07.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista042/questao07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista042/questao08.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista042/questao08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista042/questao09.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista042/questao09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lista042/questao10.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista042/questao10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +47,7 @@
       <recent name="D:\Thaila Alves\progDecisao\lista041" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.questao06">
+  <component name="RunManager" selected="Python.questao10">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operadores_ternarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista042" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operadores_ternarios.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="questao07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="questao08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="questao09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="questao06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="questao10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="progDecisao" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista042/questao10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.questao06" />
-        <item itemvalue="Python.questao05" />
-        <item itemvalue="Python.questao04" />
-        <item itemvalue="Python.questao03" />
-        <item itemvalue="Python.questao02" />
+        <item itemvalue="Python.questao10" />
+        <item itemvalue="Python.questao07" />
+        <item itemvalue="Python.questao09" />
+        <item itemvalue="Python.operadores_ternarios" />
+        <item itemvalue="Python.questao08" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692111305190</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="exercicios feitos até o número 6">
+      <created>1692194765586</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692194765586</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,7 +255,8 @@
     <MESSAGE value="resolvi questoes ate o numero 7" />
     <MESSAGE value="Falta resolver as questões 10 e a 13" />
     <MESSAGE value="yodos os exercicios resolvidos" />
-    <option name="LAST_COMMIT_MESSAGE" value="yodos os exercicios resolvidos" />
+    <MESSAGE value="exercicios feitos até o número 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios feitos até o número 6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
